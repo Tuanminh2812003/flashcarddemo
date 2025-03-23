@@ -34,12 +34,18 @@ function Section1(){
                                     Vị trí địa lí
                                 </div> */}
                                 <div className="Section1__content__inner__text">
-                                    Thánh địa Mỹ Sơn được biết đến là công trình nổi tiếng của vương quốc Chăm pa, với rất nhiều đền đài với lối kiến trúc đặc sắc. Có hơn 70 công trình kiến trúc bằng gạch đá. Phong cách kiến trúc ở đây được chia làm 6 loại: phong cách cổ, Hòa Lai, Đồng Dương, Mỹ Sơn, PoNagar và phong cách của người dân Bình Định.
+                                    Thánh địa Mỹ Sơn là trung tâm tôn giáo và tri thức của nền văn hoá Chăm Pa, Mỹ Sơn cũng là nơi chôn cất các vị vua. Các ngôi đền được xây dựng để tưởng nhớ những cuộc chinh phục vĩ đại và để sau khi qua đời, linh hồn các vị vua này được quy tụ với các bậc thánh thần của Ấn Độ giáo, đặc biệt là thần Siva. 
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Việc sử dụng gạch nung khiến quần thể di tích này khác hẳn so với các di tích khác trong khu vực Đông Nam Á như Đền Angkor Wat và Angkor Bayon (Campuchia) hay Borobodur và Prambanam (Indonesia) với các công trình được xây dựng bằng đá và đòi hỏi nhiều công sức.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Vị trí của khu thánh địa Mỹ Sơn nằm trong một thung lũng nhỏ với một con suối tự nhiên và được bao quanh bởi các dải đồi là một yếu tố quyết định cho ý nghĩa tâm linh quan trọng của khu di tích. Ngọn núi phía Nam khu đền tháp biểu tượng cho Mahaparvata, vị thần Ấn Độ giáo Siva, còn con suối chạy dọc thung lũng biểu tượng cho Mahanadi, vị thần Ấn Độ giáo Ganga, vợ của thần Siva. Vị trí chiến lược này cũng mang lại một tư thế phòng thủ dễ dàng cho toàn khu thánh địa. 
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__video" style={{marginBottom: "0px", marginTop: "0px"}}>
-                                    <iframe width="100%" height="200px" src="https://www.youtube.com/embed/guWPa3Pu6lk?si=L0hJ5SjhcUQiM-xS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <iframe width="100%" height="200px" src="https://vr360.com.vn/projects/myson-metaverse/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Video: <b>"Thánh địa Mỹ Sơn: Dấu ấn Chăm Pa giữa lòng xứ Quảng"</b>

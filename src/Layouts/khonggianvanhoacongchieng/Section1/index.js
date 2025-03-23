@@ -19,7 +19,7 @@ function Section1(){
             <div className="Section1__menu">
                 <div className="container">
                     <div className="Section1__menu__inner">
-                        <label className="Section1__menu__inner__tab lable1" for="inner1">Vị trí địa lí</label>
+                        <label className="Section1__menu__inner__tab lable1" for="inner1">Không gian văn hóa</label>
                         <label className="Section1__menu__inner__tab lable2" for="inner2">Lịch sử hình thành</label>
                         <label className="Section1__menu__inner__tab lable3" for="inner3">Giới thiệu khái quát</label>
                         {/* <label className="Section1__menu__inner__tab lable4" for="inner4">Di tích Nhà cách mạng D67</label> */}
@@ -33,10 +33,10 @@ function Section1(){
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
                                 <div className="Section1__content__inner__title">
-                                    Vị trí địa lí
+                                    Không gian văn hóa
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Không gian văn hóa Cồng chiêng Tây Nguyên trải rộng suốt 5 tỉnh Kon Tum, Gia Lai, Đắk Lắk, Đắk Nông và Lâm Đồng.
+                                    Không gian văn hóa cồng chiêng Tây Nguyên trải rộng suốt 5 tỉnh Kon Tum, Gia Lai, Đăk Lăk, Đăk Nông, Lâm Đồng và chủ nhân của loại hình văn hóa đặc sắc này là cư dân các dân tộc Tây Nguyên: Bana, Xêđăng, Mnông, Cơho, Rơmăm, Êđê, Giarai... Cồng chiêng gắn bó mật thiết với cuộc sống của người Tây Nguyên, là tiếng nói của tâm linh, tâm hồn con người, để diễn tả niềm vui, nỗi buồn trong cuộc sống, trong lao động và sinh hoạt hàng ngày của họ.
                                 </div>
                                 
                             </div>
@@ -48,7 +48,7 @@ function Section1(){
                                     Video: <b>“VNA - Thông tấn xã Việt Nam.”</b>
                                 </div> */}
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/khonggianvanhoacongchieng/2.1.png" />
+                                    <img src="/image/khonggianvanhoacongchieng/2.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cồng chiêng Tây Nguyên - hồn thiêng đại ngàn”</b>
@@ -112,15 +112,18 @@ function Section1(){
                                     Lịch sử hình thành
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Cồng chiêng Tây Nguyên có nguồn gốc từ truyền thống văn hóa và lịch sử rất lâu đời. Về cội nguồn, có nhà nghiên cứu cho rằng, cồng chiêng là "hậu duệ" của đàn đá. Trước khi có văn hóa đồng, người xưa đã tìm đến loại khí cụ đá: cồng đá, chiêng đá,... rồi tới thời đại đồ đồng, mới có chiêng đồng. 
+                                    Cồng chiêng Tây Nguyên có nguồn gốc từ truyền thống văn hóa và lịch sử rất lâu đời. Về cội nguồn, có nhà nghiên cứu cho rằng, cồng chiêng là "hậu duệ" của đàn đá. Trước khi có văn hóa đồng, người xưa đã tìm đến loại khí cụ đá: cồng đá, chiêng đá,... rồi tới thời đại đồ đồng, mới có chiêng đồng.
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Các nhà nghiên cứu văn hóa cho rằng, cồng chiêng có từ thời cổ đại, bắt nguồn từ nền văn minh Đông Sơn có cách đây ít nhất 3.500 - 4.000 năm, với hai nhạc cụ điển hình là trống đồng và cồng chiêng. Từ thuở sơ khai, cồng chiêng được đánh lên để mừng lúa mới, xuống đồng; biểu hiện của tín ngưỡng - là phương tiện giao tiếp với siêu nhiên.
+                                    Trước khi có văn hóa đồng, người xưa đã tìm đến loại khí cụ đá như cồng đá, chiêng đá, chiêng tre… Rồi sau đó tới thời đại đồ đồng mới có cồng đồng, chiêng đồng… Trong thời kỳ hoàng kim của đồ đồng, các vật dụng bằng đồng lần lượt được ra đời, trong số đó, chiêng đồng được coi là đỉnh cao với kỹ thuật chế tác tinh xảo.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Cồng chiêng Tây Nguyên là cái nôi của cồng chiêng Đông Nam Á, bởi vết tích hiện vật từ những nét chạm khắc biểu hiện người đánh cồng chiêng với dáng đánh giống với người Tây Nguyên có trên trống đồng Đông Sơn vốn có lịch sử hơn 4.000 năm.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                             <div className="Section1__content__inner__image" >
-                                    <img src="/khonggianvanhoacongchieng/2.2.png" />
+                                    <img src="/image/khonggianvanhoacongchieng/2.2.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cồng chiêng Tây Nguyên - hồn thiêng đại ngàn”</b>
@@ -184,10 +187,10 @@ function Section1(){
                                     Giới thiệu khái quát
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Không gian văn hóa Cồng chiêng Tây Nguyên là di sản văn hóa phi vật thể quan trọng, gắn liền với đời sống của 17 dân tộc thiểu số tại Tây Nguyên. Cồng chiêng không chỉ là nhạc cụ mà còn mang ý nghĩa tâm linh, là cầu nối giữa con người và thần linh. Xuất hiện trong mọi nghi lễ quan trọng, cồng chiêng thể hiện sự gắn kết cộng đồng và bản sắc văn hóa độc đáo. 
+                                    Cồng chiêng được đánh lên để mừng lúa mới, xuống đồng, là biểu hiện của tín ngưỡng, là phương tiện giao tiếp với siêu nhiên. Tất cả các lễ hội trong năm, từ lễ thổi tai cho trẻ sơ sinh đến lễ bỏ mả, lễ cúng máng nước, lễ mừng cơm mới, lễ đóng cửa kho, lễ đâm trâu, hay trong một buổi nghe khan... đều phải có tiếng cồng chiêng như sợi dây kết nối những con người trong cùng một cộng đồng. 
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Tuy nhiên, trước những biến đổi xã hội, không gian văn hóa này đang dần mai một, đòi hỏi nỗ lực bảo tồn và phát huy giá trị truyền thống.
+                                    Cồng chiêng được đánh lên để mừng lúa mới, xuống đồng, là biểu hiện của tín ngưỡng, là phương tiện giao tiếp với siêu nhiên. Tất cả các lễ hội trong năm, từ lễ thổi tai cho trẻ sơ sinh đến lễ bỏ mả, lễ cúng máng nước, lễ mừng cơm mới, lễ đóng cửa kho, lễ đâm trâu, hay trong một buổi nghe khan... đều phải có tiếng cồng chiêng như sợi dây kết nối những con người trong cùng một cộng đồng. 
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">

@@ -18,9 +18,9 @@ function Section5p2(){
                             </div>
                             <div className="Section5__inner__row1__cus1">
                             <div className="Section5__inner__row1__cus1__inner">
-                                <img src="/TNTM/Section5p2-1.jpg" />
-                                <img src="/TNTM/Section5p2-2.jpg" />
-                                <img src="/TNTM/Section5p2-3.jpg" />
+                                <img src="/image/TNTM/Section5p2-1.jpg" />
+                                <img src="/image/TNTM/Section5p2-2.jpg" />
+                                <img src="/image/TNTM/Section5p2-3.jpg" />
                             </div>
                             <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Hình ảnh Mẫu trong trang phục thời Lê”</b>

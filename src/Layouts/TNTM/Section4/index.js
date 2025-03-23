@@ -4,12 +4,12 @@ import { MdNavigateNext } from "react-icons/md";
 function Section4() {
     const [currentSlide, setCurrentSlide] = useState(0);
     const slides = [
-        "/TNTM/Section4-1.jpg",
-        "/TNTM/Section4-2.jpg",
-        "/TNTM/Section4-3.png",
-        "/TNTM/Section4-4.jpg",
-        "/TNTM/Section4-5.jpg",
-        "/TNTM/Section4-6.jpg",
+        "/image/TNTM/Section4-1.jpg",
+        "/image/TNTM/Section4-2.jpg",
+        "/image/TNTM/Section4-3.png",
+        "/image/TNTM/Section4-4.jpg",
+        "/image/TNTM/Section4-5.jpg",
+        "/image/TNTM/Section4-6.jpg",
 
     ];
 

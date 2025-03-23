@@ -68,7 +68,7 @@ function Section1p5() {
                 <div
                     className="Section2__inner__game__image"
                     style={{
-                    backgroundImage: "url('/TNTM/Sectiongame.webp')",
+                    backgroundImage: "url('/image/TNTM/Sectiongame.webp')",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     filter: questions.some((q) => q) ? "blur(10px)" : "none",

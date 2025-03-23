@@ -7,22 +7,22 @@ function Section5(){
                 <div className="container">
                     <div className="Section5__inner">
                         <div className="Section5__inner__title">
-                            KINH TẾ VÀ DU LỊCH
+                            CÂU CHUYỆN DI SẢN
                         </div>
                         <div className="Section5__inner__row1">
                             <div className="Section5__inner__row1__text">
                                 <div className="Section5__inner__disc">
-                                    Vị trí địa lí
+                                    Cách xây dựng đền tháp cổ của người Chăm
                                 </div>
                                 <div className="Section5__inner__text2">
-                                    Tọa lạc tại xã Duy Phú, huyện Duy Xuyên, tỉnh Quảng Nam, khu du lịch Thánh địa Mỹ Sơn cách trung tâm thành phố Đà Nẵng khoảng 69km. Được bao quanh bởi núi đồi và cây cối hoang dã, Thánh địa Mỹ Sơn luôn ẩn chứa trong mình một vẻ đẹp huyền bí cuốn hút các nhà thám hiểm muốn khám phá và chinh phục.
+                                    Người Chăm xưa xây Tháp bằng gạch mộc chưa nung, tức là dùng những viên gạch còn sống, trong đó có chứa một ít cát (khoảng 10% – đây có thể là do nguồn đất sét làm gạch đặc thù hoặc cũng có thể do người ta pha vào khi làm gạch) nhúng nước rồi xát và ép chặt vào nhau để kết dính điều này đã tạo nên một lớp vữa “giả tạo”. 
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image"
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/thanhdiamyson/1.jpg')",
+                                    style={{backgroundImage: "url('/image/thanhdiamyson/4.1.jpg')",
                                         backgroundSize: "contain",
                                         backgroundRepeat: "no-repeat",
                                         backgroundColor: "#FEF2F2"
@@ -31,54 +31,76 @@ function Section5(){
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>"Bản đồ Thánh địa Mỹ Sơn"</b>
+                                    Ảnh: <b>"Cách xây dựng đền tháp người Chăm Pa"</b>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Ban Quản lý di sản văn hóa Mỹ Sơn</b>
+                                    Nguồn: <b>Ashui.com</b>
                                 </div>
                             </div>
                         </div>
                         <div className="Section5__inner__row2">
                             <div className="Section5__inner__row1__text">
-                                <div className="Section5__inner__disc">
-                                    Lịch sử hình thành
-                                </div>
                                 <div className="Section5__inner__text2">
-                                    Thánh địa Mỹ Sơn có niên đại từ khoảng thế kỷ IV dưới thời đại vua Phạm Hồ Đạt, là nơi dùng để thờ cúng thần Linga và Shiva. Sau hai thế kỷ tiếp theo, ngôi đền bị thiêu rụi trong một trận hỏa hoạn lớn. Và tới thế kỷ VII, vua Phạm Phạn Chi đã cho xây lại các ngôi đền - di tích còn tồn tại đến ngày nay.
+                                    Thành ra cách xây này không vữa mà như là có vữa rồi nung toàn khối. Trong đó, người Chăm xưa đã nghĩ tới phương pháp xây tháp theo nguyên tắc tạo ra một tổng thể đồng chất với bề dày tường lớn để có được lực liên kết bền vững nhất, đồng thời dễ dàng tạo ra được những tác phẩm điêu khắc có đường nét mỹ thuật cao.
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image"
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/thanhdiamyson/2.2.png')",}}
+                                style={{backgroundImage: "url('/image/thanhdiamyson/4.2.png')",}}
                             >
                                 
                             </div>
+                            <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>"Cách xây dựng đền tháp người Chăm Pa"</b>
+                                </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Tạp chí Công Thương</b>
+                                    Nguồn: <b>Ashui.com</b>
                                 </div>
                             </div>
                         </div>
                         <div className="Section5__inner__row1">
                             <div className="Section5__inner__row1__text">
-                                <div className="Section5__inner__disc">
-                                    Công tác bảo tồn
-                                </div>
                                 <div className="Section5__inner__text2">
-                                    Thánh địa Mỹ Sơn có niên đại từ khoảng thế kỷ IV dưới thời đại vua Phạm Hồ Đạt, là nơi dùng để thờ cúng thần Linga và Shiva. Sau hai thế kỷ tiếp theo, ngôi đền bị thiêu rụi trong một trận hỏa hoạn lớn. Và tới thế kỷ VII, vua Phạm Phạn Chi đã cho xây lại các ngôi đền - di tích còn tồn tại đến ngày nay.
+                                    Nhưng vì đất sét là vật liệu lâu khô, lại phải nung qua lửa, đòi hỏi độ ẩm phải còn 20% trước khi nung nên người Chăm không thể đổ đất sét lỏng như hiện nay ta đổ bêtông mà trước tiên phải làm nên những viên gạch mộc, phơi qua vài ngày để gạch se lại, sau đó nhúng nước, xát và ép để viên này dính sát với viên kia, chồng lên và so le mí với nhau.
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image"
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/thanhdiamyson/2.2.png')",}}
+                                style={{backgroundImage: "url('/image/thanhdiamyson/4.3.jpg')",}}
                             >
                                 
                             </div>
+                            <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>"Cách xây dựng đền tháp người Chăm Pa"</b>
+                                </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Tạp chí Công Thương</b>
+                                    Nguồn: <b>Ashui.com</b>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="Section5__inner__row2">
+                            <div className="Section5__inner__row1__text">
+                                <div className="Section5__inner__text2">
+                                    Khi ngôi tháp xây xong thì toàn bộ ngôi tháp, nền và móng đã trở thành một tổng thể đất sét đồng chất. Tổng thể đất sét này được nung chín, tất nhiên sẽ có độ bền vững hơn là xây bằng gạch đã nung trước với hồ vữa, là 2 chất liệu khác nhau. Và cách xây và nung tháp của người Chiêm Thành thì bắt buộc phải “xây từ dưới lên trên và nung từ trên xuống dưới” nhằm tránh cho tháp khỏi bị đổ vì xây bằng gạch mộc.
+                                </div>
+                            </div>
+                            <div className="Section5__inner__row1__image"
+                                
+                            >
+                                <div className="Section5__inner__row1__image__inner"
+                                style={{backgroundImage: "url('/image/thanhdiamyson/4.4.jpg')",}}
+                            >
+                                
+                            </div>
+                            <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>"Cách xây dựng đền tháp người Chăm Pa"</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>Ashui.com</b>
                                 </div>
                             </div>
                         </div>

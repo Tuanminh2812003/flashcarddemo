@@ -25,7 +25,7 @@ function Section5(){
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/hatxoan/2.1.png')",}}
+                                    style={{backgroundImage: "url('/image/hatxoan/2.1.png')",}}
                                 >
 
                                 </div>
@@ -49,11 +49,11 @@ function Section5(){
                             <div className="Section5__inner__row1__image"
                                 
                             >
-                                <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/hoangthanhthanglong/2.2.jpg')",}}
-                            >
-                                
-                            </div>
+                                    <div className="Section5__inner__row1__image__inner"
+                                    style={{backgroundImage: "url('/image/hatxoan/2.2.png')",}}
+                                >
+
+                                </div>
                             <div className="Section1__content__inner__video__disc" style={{color:"#374151"}}>
                                     Ảnh: <b>“Hoàng thành Thăng Long bao gồm 7 di tích với kiến trúc đồ sộ”</b>
                                 </div>

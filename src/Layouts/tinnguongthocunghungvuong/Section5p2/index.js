@@ -20,7 +20,7 @@ function Section5p2(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/tinnguongthocunghungvuong/6.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/tinnguongthocunghungvuong/6.jpg')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
@@ -38,7 +38,7 @@ function Section5p2(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/tinnguongthocunghungvuong/7.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/tinnguongthocunghungvuong/7.jpg')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">

@@ -58,7 +58,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/TNTM/Section1-4.jpg" />
+                                    <img src="/image/TNTM/Section1-4.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>Tượng phật Mẫu Man Nương</b>
@@ -81,7 +81,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/TNTM/Section5.1new.png" />
+                                    <img src="/image/TNTM/Section5.1new.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>"Bức tượng Thánh Mẫu Liễu Hạnh tại Phủ Quảng Cung (Phủ Nấp)"</b>

@@ -30,7 +30,7 @@ function Section1(){
                                 Tư liệu quý này có kích thước dài 30cm, rộng 20cm, dày 2cm, in bằng bản mộc trên giấy dó, được vẽ bằng 3 loại màu cùng các ghi chép bằng chữ Hán. Nội dung chính của cuốn sách là: Bản đồ về hành trình đi sứ; Ghi chú rõ ràng về quá trình đi sứ, cùng các ghi chép tỉ mỉ về địa hình sông núi, phong cảnh, con người; Nghi lễ ngoại giao khi qua các địa phương Trung Quốc và Việt Nam.
                             </div>
                             <div className="Section1__content__inner__image" >
-                                <img src="/hoanghoasutrinhdo/3.1 infographic (desktop).png" />
+                                <img src="/image/hoanghoasutrinhdo/3.1 infographic (desktop).png" />
                             </div>
                         </div>
                         {/* <div className="Section1__content__inner__text">
@@ -161,7 +161,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.2.png" />
+                                    <img src="/image/hoangthanhthanglong/3.2.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cửa Bắc là cổng thành duy nhất còn lại của Thành Hà Nội thời Nguyễn”</b>
@@ -188,7 +188,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.3.png" />
+                                    <img src="/image/hoangthanhthanglong/3.3.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Phòng trực ban trong Hầm D67 dưới Nhà D67”</b>

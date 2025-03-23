@@ -41,7 +41,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/tinnguongthocunghungvuong/1.png" />
+                                    <img src="/image/tinnguongthocunghungvuong/1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Nguồn: <b>Báo Dân trí</b>
@@ -61,7 +61,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/tinnguongthocunghungvuong/8.jpg" />
+                                    <img src="/image/tinnguongthocunghungvuong/8.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>"Hùng Vương là cách gọi các vị vua nước Văn Lang của người Lạc Việt"</b>

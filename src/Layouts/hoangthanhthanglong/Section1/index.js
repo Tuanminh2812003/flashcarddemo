@@ -42,7 +42,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.1.png" />
+                                    <img src="/image/hoangthanhthanglong/3.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Di tích Kỳ đài nằm trong khuôn viên Bảo tàng Lịch sử Quân sự Việt Nam”</b>
@@ -183,7 +183,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.2.png" />
+                                    <img src="/image/hoangthanhthanglong/3.2.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cửa Bắc là cổng thành duy nhất còn lại của Thành Hà Nội thời Nguyễn”</b>
@@ -210,7 +210,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.3.png" />
+                                    <img src="/image/hoangthanhthanglong/3.3.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Phòng trực ban trong Hầm D67 dưới Nhà D67”</b>

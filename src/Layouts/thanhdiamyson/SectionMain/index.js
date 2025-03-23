@@ -17,7 +17,7 @@ function SectionMain(){
     return(
         <>
             <div className="SectionMain" style={{
-                backgroundImage: "url('/thanhdiamyson/1.1.png')",
+                backgroundImage: "url('/image/thanhdiamyson/1.1.png')",
                 backgroundSize: "cover",
                 backgroundPosition: "center 0",
             }}>
@@ -44,13 +44,10 @@ function SectionMain(){
                         </div>
                         <ul>
                             <li>
-                                Nêu được vị trí và giới thiệu được khái quát về di sản Thánh địa Mỹ Sơn.
+                                Xác định được vị trí và nắm được những thông tin cơ bản về di sản Thánh địa Mỹ Sơn
                             </li>
                             <li>
-                                Biết cách sưu tầm và sử dụng tư liệu lịch sử để tìm hiểu về Thánh địa Mỹ Sơn.
-                            </li>
-                            <li>
-                                Vận dụng kiến thức đã học, nhận thức được giá trị của di sản, có ý thức bảo tồn đối với công cuộc bảo tồn và phát huy giá trị di sản văn hóa.
+                                Nâng cao nhận thức về bảo tồn và phát huy giá trị di sản văn hóa trong cộng đồng.
                             </li>
                         </ul>
                     </div>

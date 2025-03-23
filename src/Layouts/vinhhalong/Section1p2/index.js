@@ -33,7 +33,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoanghoasutrinhdo/3.1 infographic (desktop).png" />
+                                    <img src="/image/vinhhalong" />
                                 </div>
                             </div>
                         </div>

@@ -33,7 +33,7 @@ function Section5(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/QTDTTA/Section5.1new.jpg",}}
+                                style={{backgroundImage: "url('/image/QTDTTA/Section5.1new.jpg",}}
                             >
                                 
                             </div>

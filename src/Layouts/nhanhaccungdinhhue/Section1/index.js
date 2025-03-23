@@ -120,7 +120,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/nhanhaccungdinhhue/3.2.png" />
+                                    <img src="/image/nhanhaccungdinhhue/3.2.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
                                     Ảnh: <b>“Nhạc cụ chủ yếu sử dụng trong Đại nhạc là dàn trống và kèn.”</b>
@@ -129,7 +129,7 @@ function Section1(){
                                     Nguồn: <b>Báo Tuổi trẻ (Thượng Khải)</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/nhanhaccungdinhhue/3.3.png" />
+                                    <img src="/image/nhanhaccungdinhhue/3.3.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
                                     Ảnh: <b>“Các bản âm nhạc của dàn Tiểu nhạc mang màu sắc trang nhã, vui tươi.”</b>
@@ -138,7 +138,7 @@ function Section1(){
                                     Nguồn: <b>Cục Du lịch Quốc gia Việt Nam</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/nhanhaccungdinhhue/3.4.png" />
+                                    <img src="/image/nhanhaccungdinhhue/3.4.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
                                     Ảnh: <b>“Điệu múa Lân Mẫu Xuất Lân Nhi.”</b>

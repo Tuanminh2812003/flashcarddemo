@@ -118,7 +118,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hatxoan/3.2.png" />
+                                    <img src="/image/hatxoan/3.2.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
                                     Ảnh: <b>“Người đứng đầu một phường Xoan (hay họ Xoan) là ông Trùm.”</b>
@@ -198,7 +198,7 @@ function Section1(){
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
-                                <Audio url="/hatxoan/3.2.png" title={`Tiết mục Hát Xoan "Trống quân đón đào"`} disc="một trong những làn điệu hát rất thú vị trong chặng hát giao duyên" audio="/hatxoan/Audio 3.3.mp3"/>
+                                <Audio url="/image/hatxoan/3.2.png" title={`Tiết mục Hát Xoan "Trống quân đón đào"`} disc="một trong những làn điệu hát rất thú vị trong chặng hát giao duyên" audio="/image/hatxoan/Audio 3.3.mp3"/>
 
                                 
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>

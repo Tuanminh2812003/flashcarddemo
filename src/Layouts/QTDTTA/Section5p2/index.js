@@ -17,7 +17,7 @@ function Section5p2(){
                             
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                            style={{backgroundImage: "url('/QTDTTA/1.jpg",}}
+                            style={{backgroundImage: "url('/image/QTDTTA/1.jpg",}}
                             >
                             </div>
                             <div className="Section1__content__inner__video__disc" style={{color: "#374151"}}>
@@ -39,7 +39,7 @@ function Section5p2(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/QTDTTA/2.webp",}}
+                                style={{backgroundImage: "url('/image/QTDTTA/2.webp",}}
                             >
                                 
                             </div>
@@ -62,7 +62,7 @@ function Section5p2(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/QTDTTA/12.png",}}
+                                style={{backgroundImage: "url('/image/QTDTTA/12.png",}}
                             >
 
                             </div>

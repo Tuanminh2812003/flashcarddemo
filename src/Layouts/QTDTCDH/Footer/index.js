@@ -3,8 +3,14 @@ import { Link } from "react-router-dom";
 import { FaYoutube } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+import { useState } from "react";
 
 function Footer(){
+    const [showSource, setShowSource] = useState(false);
+    
+    const toggleSource = () => {
+        setShowSource(!showSource); // Chuyển đổi trạng thái
+    };
     return(
         <>
             <div className="Footer">
@@ -17,20 +23,24 @@ function Footer(){
                             <img src="/Logo.png" alt="logo"/>
                         </div>
                         <div className="Footer__inner__row">
-                            <div className="Footer__inner__title">
-                                Chuyên gia cố vấn
-                            </div>
-                            <div className="Footer__inner__disc">
-                                GS.TS.NGND Đỗ Thanh Bình
+                        <div className="Footer__inner__title">
+                                Hướng dẫn chuyên môn
                             </div>
                             <div className="Footer__inner__disc">
                                 PGS.TS Nguyễn Mạnh Hường
                             </div>
-                            <div className="Footer__inner__disc">
-                                TS. Nguyễn Văn Ninh
+                        
+                            <div className="Footer__inner__title">
+                                Tham vấn chuyên môn
                             </div>
                             <div className="Footer__inner__disc">
-                                TS. Vũ Đức Liêm
+                            GS.TS. NGND Đỗ Thanh Bình
+                            </div>
+                            <div className="Footer__inner__disc">
+                            TS. Nguyễn Văn Ninh
+                            </div>
+                            <div className="Footer__inner__disc">
+                            PGS.TS Phan Ngọc Huyền
                             </div>
                         </div>
                         <div className="Footer__inner__row r2">
@@ -70,21 +80,28 @@ function Footer(){
                 <div className="Footer__copy">
                     <div className="container">
                         <div className="Footer__copy__inner">
-                            <div className="Footer__copy__inner__text">
-                                1. Tạp chí Cố Đô Huế Xưa và Nay
+                            <div className="Footer__copy__inner__text" onClick={toggleSource} style={{ cursor: "pointer", color: "blue" }}>
+                                {showSource ? "Thu gọn" : "Ấn để xem nguồn"}
                             </div>
-                            <div className="Footer__copy__inner__text">
-                                2. B.A.V.H, Bộ sách Những người bạn cố đô Huế, NXB Thuận Hóa
-                            </div>
-                            <div className="Footer__copy__inner__text">
-                                3. Phan Thuận An, Kiến trúc Cố đô Huế, NXB Đà Nẵng
-                            </div>
-                            <div className="Footer__copy__inner__text">
-                                4. Hồ Vĩnh, Cố đô Huế dấu ấn thời gian, NXB Đại học Huế
-                            </div>
-                            <div className="Footer__copy__inner__text">
-                                5. Phan Thanh Hải, Huế còn lại với di sản, NXB Hà Nội
-                            </div>
+                            {showSource && (
+                                <>
+                                    <div className="Footer__copy__inner__text">
+                                        1. Tạp chí Cố Đô Huế Xưa và Nay
+                                    </div>
+                                    <div className="Footer__copy__inner__text">
+                                        2. B.A.V.H, Bộ sách Những người bạn cố đô Huế, NXB Thuận Hóa
+                                    </div>
+                                    <div className="Footer__copy__inner__text">
+                                        3. Phan Thuận An, Kiến trúc Cố đô Huế, NXB Đà Nẵng
+                                    </div>
+                                    <div className="Footer__copy__inner__text">
+                                        4. Hồ Vĩnh, Cố đô Huế dấu ấn thời gian, NXB Đại học Huế
+                                    </div>
+                                    <div className="Footer__copy__inner__text">
+                                        5. Phan Thanh Hải, Huế còn lại với di sản, NXB Hà Nội
+                                    </div>
+                                </>
+                            )}
                             <div className="Footer__copy__inner__aes">
                                 © Copyright 2024 AES, All rights reserved
                             </div>

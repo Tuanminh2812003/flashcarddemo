@@ -60,7 +60,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/chaubantrieunguyen/2.jpg" />
+                                    <img src="/image/chaubantrieunguyen/2.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Bản Dụ của vua Minh Mệnh năm 1830 về việc đổi tên Văn thư phòng làm Nội các đồng thời quy định chức trách cho cơ quan này”</b>
@@ -69,7 +69,7 @@ function Section1(){
                                     Nguồn: <b>Trung tâm lưu trữ quốc gia </b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/chaubantrieunguyen/4.jpg" />
+                                    <img src="/image/chaubantrieunguyen/4.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Tài liệu Châu bản triều Nguyễn được bảo quản tại Trung tâm lưu trữ quốc gia I”</b>
@@ -105,7 +105,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/chaubantrieunguyen/5.webp" />
+                                    <img src="/image/chaubantrieunguyen/5.webp" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Kho Châu bản triều Nguyễn hiện được bảo quản trong điều kiện tốt nhất”</b>

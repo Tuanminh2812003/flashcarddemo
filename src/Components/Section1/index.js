@@ -40,7 +40,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTCDH/Section1-1.jpg" />
+                                    <img src="/image/QTDTCDH/Section1-1.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Tổng thể Đại Nội Huế”</b>
@@ -115,7 +115,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTCDH/Section1.1new.jpg" />
+                                    <img src="/image/QTDTCDH/Section1.1new.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>"Khu vực Hoàng thành trong Kinh thành Huế, 1932."</b>
@@ -124,7 +124,7 @@ function Section1(){
                                     Nguồn: <b>AAVHj.c.</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTCDH/Section1.2new.jpg" />
+                                    <img src="/image/QTDTCDH/Section1.2new.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>"Ngày 21 tháng 3 năm Gia Long thứ 4 (1805), Công đồng truyền cho công đường quan doanh Quảng Nam đưa dân binh tới để xây đắp Kinh thành."</b>
@@ -193,7 +193,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTCDH/Section1-2.jpg" />
+                                    <img src="/image/QTDTCDH/Section1-2.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Thơ chữ Hán trên các công trình trong Điện Thái Hòa”</b>

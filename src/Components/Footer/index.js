@@ -3,8 +3,15 @@ import { Link } from "react-router-dom";
 import { FaYoutube } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+import { useState } from "react";
 
 function Footer(){
+    // Trạng thái để hiển thị và ẩn phần nguồn
+    const [showSource, setShowSource] = useState(false);
+
+    const toggleSource = () => {
+        setShowSource(!showSource); // Chuyển đổi trạng thái
+    };
     return(
         <>
             <div className="Footer">

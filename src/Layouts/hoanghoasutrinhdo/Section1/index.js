@@ -37,7 +37,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoanghoasutrinhdo/2.1.png" />
+                                    <img src="/image/hoanghoasutrinhdo/2.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Tư liệu được trưng bày ở trụ sở Ban Quản lý bảo tồn di sản văn hóa Trường Lưu”</b>

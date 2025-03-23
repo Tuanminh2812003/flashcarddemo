@@ -44,7 +44,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/dothicohoian/3.1.png" />
+                                    <img src="/image/dothicohoian/3.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Lễ hội Tết Nguyên Tiêu ở Hội An”</b>
@@ -52,7 +52,7 @@ function Section1(){
                                 <div className="Section1__content__inner__video__disc">
                                     Nguồn: <b>Trung tâm văn hóa Hội An</b>
                                 </div>
-                                <Audio url="/dothicohoian/3.1.png" title="Đô thị cổ Hội An và câu chuyện kết nối" disc="Trung tâm văn hóa Hội An" audio="/dothicohoian/3.2.mp3"/>
+                                <Audio url="/image/dothicohoian/3.1.png" title="Đô thị cổ Hội An và câu chuyện kết nối" disc="Trung tâm văn hóa Hội An" audio="/image/dothicohoian/3.2.mp3"/>
                             </div>
                         </div>
                         {/* <div className="Section1__content__inner__text">

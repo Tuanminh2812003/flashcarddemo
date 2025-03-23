@@ -18,7 +18,7 @@ function Section5(){
                             </div>
                             
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/BTSVM/Section5-1.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/BTSVM/Section5-1.jpg')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#374151"}}>
@@ -54,7 +54,7 @@ function Section5(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/BTSVM/Section5-3.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/BTSVM/Section5-3.jpg')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#374151"}}>

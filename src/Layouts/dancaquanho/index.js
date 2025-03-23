@@ -18,7 +18,7 @@ function LayoutDefault(){
                 <Section5/>
                 <Section1/>
                 <div className="container infographic" style={{backgroundColor:"#F3E7DB"}}>
-                    <img src="/dancaquanho/4.1.web.png" style={{width: "100%", height: "auto"}}/>
+                    <img src="/image/dancaquanho/4.1.web.png" style={{width: "100%", height: "auto"}}/>
                 </div>
                 <Section5p2/>
                 <Section2/>

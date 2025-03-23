@@ -39,7 +39,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/mocbantrieunguyen/2.1.png" />
+                                    <img src="/image/mocbantrieunguyen/2.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Mộc bản triều Nguyễn”</b>
@@ -174,7 +174,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/mocbantrieunguyen/2.3.png" />
+                                    <img src="/image/mocbantrieunguyen/2.3.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Tòa nhà Nội các - Nơi giúp nhà vua kiểm soát tất cả công văn, tấu sớ của địa phương và triều đình”</b>
@@ -183,7 +183,7 @@ function Section1(){
                                     Nguồn: <b>Trung tâm Lưu trữ Quốc gia I</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/mocbantrieunguyen/2.4.png" />
+                                    <img src="/image/mocbantrieunguyen/2.4.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Nơi lưu trữ công văn, giấy tờ đã được triều Nguyễn sử dụng biên soạn các bộ sử sách”</b>

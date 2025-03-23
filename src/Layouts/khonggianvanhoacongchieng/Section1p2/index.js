@@ -22,7 +22,7 @@ function Section1p2(){
                     <div className="Section1__menu__inner">
                         <label className="Section1__menu__inner__tab lable1p2" for="inner1p2" style={{color: "#FFFFFF"}}>Giá trị về văn hóa và tinh thần</label>
                         <label className="Section1__menu__inner__tab lable2p2" for="inner2p2" style={{color: "#FFFFFF"}}>Lễ nghi và tín ngưỡng</label>
-                        {/* <label className="Section1__menu__inner__tab lable3" for="inner3">Giới thiệu khái quát</label> */}
+                        <label className="Section1__menu__inner__tab lable3p2" for="inner3p2" style={{color: "#FFFFFF"}}>SỬ THI TÂY NGUYÊN</label>
                         {/* <label className="Section1__menu__inner__tab lable4" for="inner4">Giới thiệu khái quát về di sản</label> */}
                     </div>
                 </div>
@@ -124,7 +124,13 @@ function Section1p2(){
                                     Lễ nghi và tín ngưỡng
                                 </div>
                                 <div className="Section1__content__inner__text" style={{color: "#FFFFFF"}}>
-                                    Cồng chiêng không chỉ là nhạc cụ mà còn có giá trị biểu tượng sâu sắc trong các nghi lễ của người dân Tây Nguyên như lễ cầu mong mưa thuận gió hòa, bảo vệ mùa màng, cầu sức khỏe và hạnh phúc cho cộng đồng. Ngoài ra, theo quan niệm của người Tây Nguyên, cồng chiêng là ngôn ngữ giao tiếp hàng đầu của con người với thế giới siêu nhiên. Nó được coi là biểu hiện cho tài sản, quyền lực, sự an toàn trong mỗi gia đình và cộng đồng.
+                                    Cồng chiêng không chỉ là nhạc cụ mà còn có giá trị biểu tượng sâu sắc trong các nghi lễ của người dân Tây Nguyên như lễ cầu mong mưa thuận gió hòa, bảo vệ mùa màng, cầu sức khỏe và hạnh phúc cho cộng đồng. 
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color: "#FFFFFF"}}>
+                                    Lễ đâm trâu, người Tây Nguyên sẽ chơi dàn chiêng với những bài hát Cheng, Spo, Pru. Với giai điệu hào hùng, miêu tả lại cuộc chiến đấu gan góc của những vị tù trường từ thời thời xưa hay toàn cảnh những cuộc cuộc chiến tranh bảo vệ chủ quyền lãnh thổ. 
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color: "#FFFFFF"}}>
+                                    Còn với lễ bỏ mả, phần đông sẽ chơi dàn chiêng Arap. Đêm sau cuối khi hoàn tất, người thân trong gia đình sẽ quỳ xuống trước Pnang thút thít để tưởng niệm cho linh hồn của người đã khuất. Khi thầy cúng vừa dứt lời cầu khấn thì cùng là lúc bài chiêng Xoang vang lên, với tiết tấu rộn ràng để mọi người cùng đi dạo đưa tiễn người thân trong gia đình ra đi trong sự thanh thản .
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
@@ -181,14 +187,39 @@ function Section1p2(){
                         </div> */}
                     </div>
                     <div className="Section1__content__inner inner3p2">
-                        <div className="Section1__content__inner__title">
-                            Giới thiệu khái quát
-                        </div>
-                        <div className="Section1__content__inner__disc">
-                            Quần thể di tích Cố đô Huế bao gồm những di tích tiêu biểu như Kinh thành, Hoàng thành và Tử Cấm thành, hệ thống các lăng tẩm của vua triều Nguyễn, Cung An Định, Trai cung, điện Hòn Chén, Văn miếu và Võ miếu,... những công trình kiến trúc này được kết hợp độc đáo giữa nguyên tắc kiến trúc truyền thống Việt Nam với tư tưởng triết lý phương Đông, cùng những đặc điểm mang dấu ấn kiến trúc phương Tây.
-                        </div>
-                        <div className="Section1__content__inner__image" >
-                            <img src="/QTDTCDH/Section1-2.webp" />
+                    <div className="Section1__content__inner__row">
+                            <div className="Section1__content__inner__row__text">
+                                <div className="Section1__content__inner__title" style={{color: "#FFFFFF"}}>
+                                    Sử thi Đam San 
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color: "#FFFFFF"}}>
+                                    “Hãy đánh những chiêng âm thanh nhất, những chiêng kêu trầm nhất. Đánh nhè nhẹ cho gió đưa xuống đất. Đánh cho tiếng chiêng vang xa khắp xứ. Đánh cho tiếng chiêng luồn qua sàn lan đi xa. Đánh cho tiếng chiêng vượt qua nhà vọng lên trời. Đánh cho khỉ trên cây cũng quên bám chặt vào cành đến phải ngã xuống đất. Đánh cho ma quỷ mê mải nghe đến quên làm hại con người. Đánh cho chuột sóc quên đào hang, cho rắn nằm ngay đơ, cho thỏ phải giật mình, cho hươu nai đứng nghe quên ăn cỏ, cho tất cả chỉ còn lắng nghe tiếng chiêng của Đam San...”.
+                                </div>
+                                <div className="Section1__content__inner__title" style={{color: "#FFFFFF"}}>
+                                    Người Xêđăng kể rằng
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color: "#FFFFFF"}}>
+                                    Thuở xa xưa có lần voi dữ tràn về phá rẫy, phá buôn. Con trai Xêđăng mang theo lao, tên lá cùng hợp sức tiêu diệt thú dữ, đánh nhau suốt mấy ngày đêm, sức tàn lực kiệt mà thú dữ càng hung tợn. Họ chỉ còn biết chắp tay cầu Yàng. Bỗng họ thấy đùn lên một ụ đất, đào xuống thấy một vật bằng đồng tròn như ông mặt trời to bốn người ôm mới xuể.
+                                </div>
+                                
+                            </div>
+                            <div className="Section1__content__inner__row__image">
+                                {/* <div className="Section1__content__inner__video">
+                                    <iframe width="100%" height="200px" src="https://www.youtube.com/embed/IRGupC5hEn4?si=WN2ylYYe0CO0HNNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Video: <b>“VNA - Thông tấn xã Việt Nam.”</b>
+                                </div> */}
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/khonggianvanhoacongchieng/1.1new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc" style={{color: "#FFFFFF"}}>
+                                    Ảnh: <b>“Cồng chiêng Tây Nguyên ”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc" style={{color: "#FFFFFF"}}>
+                                    Nguồn: <b>EU-Vietnam Business Network</b>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div className="Section1__content__inner inner4p2">

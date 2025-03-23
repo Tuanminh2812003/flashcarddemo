@@ -39,7 +39,7 @@ function Section5p3(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/tinnguongthocunghungvuong/2.png')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/tinnguongthocunghungvuong/2.png')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
@@ -61,7 +61,7 @@ function Section5p3(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/tinnguongthocunghungvuong/9.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/tinnguongthocunghungvuong/9.jpg')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
@@ -83,7 +83,7 @@ function Section5p3(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/tinnguongthocunghungvuong/10.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/tinnguongthocunghungvuong/10.jpg')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
@@ -104,7 +104,7 @@ function Section5p3(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/tinnguongthocunghungvuong/11.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/tinnguongthocunghungvuong/11.jpg')",}}>
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">

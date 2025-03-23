@@ -15,14 +15,14 @@ function Section5(){
                                    Giá trị nghệ thuật, giải trí
                                 </div> */}
                                 <div className="Section5__inner__text2">
-                                    Sau khi được UNESCO công nhận, không gian văn hóa Cồng chiêng Tây Nguyên đã trở thành một điểm nhấn về văn hóa, du lịch, góp phần phát triển kinh tế - xã hội của vùng đất cao nguyên. Cồng chiêng Tây Nguyên không chỉ có sức hấp dẫn đặc biệt bởi sự đa dạng độc đáo của kỹ thuật diễn tấu, mà còn là tiếng nói tâm linh, là biểu tượng cho cuộc sống của con người nơi đây.
+                                    Ngày 25-11-2005, Văn hóa Cồng chiêng Tây Nguyên của Việt Nam đã được UNESCO chính thức công nhận là kiệt tác văn hóa phi vật thể và truyền khẩu của nhân loại. Không gian văn hóa Cồng chiêng Tây Nguyên đã trở thành một điểm nhấn về văn hóa, du lịch, góp phần phát triển kinh tế - xã hội của vùng đất cao nguyên. Cồng chiêng Tây Nguyên không chỉ có sức hấp dẫn đặc biệt bởi sự đa dạng độc đáo của kỹ thuật diễn tấu, mà còn là tiếng nói tâm linh, là biểu tượng cho cuộc sống của con người nơi đây.
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image"
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/khonggianvanhoacongchieng/6.1.png')",}}
+                                    style={{backgroundImage: "url('/image/khonggianvanhoacongchieng/6.1.png')",}}
                                 >
 
                                 </div>
@@ -48,7 +48,7 @@ function Section5(){
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/khonggianvanhoacongchieng/6.2.png')",}}
+                                    style={{backgroundImage: "url('/image/khonggianvanhoacongchieng/6.2.png')",}}
                                 >
 
                                 </div>

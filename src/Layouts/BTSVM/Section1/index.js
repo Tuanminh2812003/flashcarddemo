@@ -69,7 +69,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/BTSVM/Section1-1.jpg" />
+                                    <img src="/image/BTSVM/Section1-1.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
                                     Ảnh: <b>“Bia tiến sĩ khoa thi nho học năm 1442 (Nhâm Tuất)”</b>

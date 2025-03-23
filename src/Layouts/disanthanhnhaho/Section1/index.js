@@ -42,7 +42,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/disanthanhnhaho/3.1.jpg" />
+                                    <img src="/image/disanthanhnhaho/3.1.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cổng Đông”</b>
@@ -51,7 +51,7 @@ function Section1(){
                                     Nguồn: <b>Smart Travel Mobifone</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/disanthanhnhaho/3.2.jpg" />
+                                    <img src="/image/disanthanhnhaho/3.2.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cổng Tây”</b>
@@ -60,7 +60,7 @@ function Section1(){
                                     Nguồn: <b>Smart Travel Mobifone</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/disanthanhnhaho/3.3.jpg" />
+                                    <img src="/image/disanthanhnhaho/3.3.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cổng Nam”</b>
@@ -69,7 +69,7 @@ function Section1(){
                                     Nguồn: <b>Blog reviewvilla (Nhung Hồng)</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/disanthanhnhaho/3.4.jpg" />
+                                    <img src="/image/disanthanhnhaho/3.4.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cổng Bắc”</b>
@@ -138,7 +138,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/disanthanhnhaho/3.5.jpg" />
+                                    <img src="/image/disanthanhnhaho/3.5.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Hào thành”</b>
@@ -207,7 +207,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.2.png" />
+                                    <img src="/image/disanthanhnhaho/3.6.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“La thành”</b>

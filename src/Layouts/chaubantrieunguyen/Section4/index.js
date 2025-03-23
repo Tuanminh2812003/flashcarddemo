@@ -4,10 +4,14 @@ import { MdNavigateNext } from "react-icons/md";
 function Section4() {
     const [currentSlide, setCurrentSlide] = useState(0);
     const slides = [
-        "/hoanghoasutrinhdo/4.1.jpg",
-        "/hoanghoasutrinhdo/4.2.jpg",
-        "/hoanghoasutrinhdo/4.3.jpg",
-        "/hoanghoasutrinhdo/4.4.jpg",
+        "/image/chaubantrieunguyen/1.1.jpg",
+        "/image/chaubantrieunguyen/1.2.jpg",
+        "/image/chaubantrieunguyen/1.3.jpg",
+        "/image/chaubantrieunguyen/1.5.jpg",
+        "/image/chaubantrieunguyen/1.6.jpg",
+        "/image/chaubantrieunguyen/1.7.jpg",
+        "/image/chaubantrieunguyen/1.8.jpg",
+        "/image/chaubantrieunguyen/114.jpg",
     ];
 
     const handleNextClick = () => {
@@ -25,7 +29,7 @@ function Section4() {
     return (
         <div className="Section4">
             <div className="Section4__title">
-                GIÁ TRỊ
+                CHÂU BẢN TRIỀU NGUYỄN
             </div>
             <div className="Section4__slider">
                 {slides.map((slide, index) => (
@@ -55,22 +59,24 @@ function Section4() {
                     index === currentSlide ? (
                     <div key={index} className="Section4__text__inner">
                         {index === 0 &&
-                        `"Hoàng Hoa sứ trình đồ" là cuốn sách miêu tả về một trong những hoạt động ngoại giao của Việt Nam và Trung Hoa trong thế kỷ XVIII.”`}
+                        `Đoàn cán bộ làm việc tại Trung tâm tu bổ và phục chế Tokyo `}
                         {index === 1 &&
-                        `"Hoàng hoa sứ trình đồ" được con cháu dòng họ Nguyễn Huy ở Hà Tĩnh lưu giữ lại.”`}
+                        `Chuyên gia Kojima Satochi và Yasuda Ishimaru Tomoko và cán bộ Trung tâm Lưu trữ quốc gia I đang cùng trình diễn kỹ thuật bóc tách Châu bản triều Nguyễn bị bết dính đóng cục năm 2017`}
                         {index === 2 &&
-                        `“Những hình ảnh trong cuốn sách quý "Hoàng hoa sứ trình đồ”.”`}
+                        `Một tập Châu bản triều Nguyễn bị bết dính đóng cục`}
                         {index === 3 &&
-                        `Ngày 30/5/2018, tác phẩm được UNESCO công nhận là Di sản tư liệu Ký ức thế giới, khu vực Châu Á – Thái Bình Dương.`}
+                        `Một tờ Châu bản triều Nguyễn bị bết dính đóng cục sau khi được bóc tách và tu bổ bồi nền `}
+                        {index === 4 &&
+                        `Châu bản triều Nguyễn được bảo quản trong kho của Trung tâm Lưu trữ quốc gia I tại địa chỉ 31B Tràng Thi, Hoàn Kiếm, Hà Nội từ 1992 – 1997 (Giai đoạn kho bảo quản tài liệu thông gió tự nhiên) `}
+                        {index === 5 &&
+                        `Châu bản triều Nguyễn được bảo quản trong kho của Trung tâm Lưu trừ quốc gia I giai đoạn 1997  - 2009 (Giai đoạn kho bảo quản tài liệu sử dụng điều hòa cục bộ) `}
+                        {index === 6 &&
+                        `Châu bản triều Nguyễn được chuẩn bị trước khi di dời sang địa chỉ mới số 5 Vũ Phạm Hàm, Cầu Giấy, Hà Nội `}
+                        {index === 7 &&
+                        `Châu bản triều Nguyễn sau khi được bóc tách và tu bổ bồi nền được bảo quản trong sơ mi có chất liệu phi a xít`}
                     </div>
                     ) : null
                 )}
-            </div>
-            <div className="Section4__text">
-                Cuốn sách không chỉ là một di sản văn hóa và lịch sử vô giá, mà còn là chứng tích sống động về hành trình ngoại giao quan trọng của sứ thần Hoàng Hoa và quá trình giao thiệp của triều đại Lê Trung Hưng với các quốc gia láng giềng. 
-            </div>
-            <div className="Section4__text">
-                Tác phẩm này khắc họa sự phát triển của ngoại giao, thương mại và khoa học địa lý dưới thời phong kiến Việt Nam, đồng thời cung cấp nguồn tư liệu quý giá phục vụ cho nghiên cứu lịch sử và văn hóa dân tộc.
             </div>
             <div className="Section4__next" onClick={handleNextClick}>
                 <MdNavigateNext />

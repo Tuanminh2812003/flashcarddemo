@@ -30,7 +30,7 @@ const diSanPhiVatThe = [
     {
         id: 6,
         url: images.dspvt6,
-        web: "/doncataitu"
+        web: "/doncataitunambo"
     },
     {
         id: 7,

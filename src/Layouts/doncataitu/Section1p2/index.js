@@ -103,7 +103,7 @@ function Section1p2(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/doncataitu/4.jpg" />
+                                    <img src="/image/doncataitu/4.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color: "#FFFFFF"}}>
                                     Ảnh: <b>"Đàn ca tài tử - Nét đẹp văn hóa Nam Bộ"</b>
@@ -141,7 +141,7 @@ function Section1p2(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/doncataitu/5.jpg" />
+                                    <img src="/image/doncataitu/5.jpg" />
                                 </div>
                                 {/* <div className="Section1__content__inner__video__disc" style={{color: "#FFFFFF"}}>
                                     Video: <b>“Cồng chiêng Tây Nguyên là biểu tượng trong lễ nghi Tây Nguyên”</b>

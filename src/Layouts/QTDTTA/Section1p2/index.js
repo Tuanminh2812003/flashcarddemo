@@ -50,7 +50,7 @@ function Section1p2(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTTA/Section1.1new.jpg" />
+                                    <img src="/image/QTDTTA/Section1.1new.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"white"}}>
                                     Ảnh: <b>"Đền Trần tại Di tích cố đô Hoa Lư"</b>
@@ -58,24 +58,24 @@ function Section1p2(){
                                 <div className="Section1__content__inner__video__disc" style={{color:"white"}}>
                                     Nguồn: <b>Di sản Tràng An</b>
                                 </div>
-                                <Audio url="/QTDTTA/Section1-1.jpg" title="Câu chuyện về đền Trần" disc="UNESCO" audio="/QTDTTA/quan_the_danh_thang_trang_an_khong_gian_van_hoa.mp3"/>
+                                <Audio url="/image/QTDTTA/Section1-1.jpg" title="Câu chuyện về đền Trần" disc="UNESCO" audio="/image/QTDTTA/quan_the_danh_thang_trang_an_khong_gian_van_hoa.mp3"/>
                             </div>
                         </div>
                         
                         {/* <div className="Section1__content__inner__image" >
-                            <img src="/QTDTTA/Section1-1.jpg" />
+                            <img src="/image/QTDTTA/Section1-1.jpg" />
                         </div>
                         <div className="Section1__content__inner__text">
                         Vào thế kỷ 10, Đinh Tiên Hoàng (Đinh Bộ Lĩnh) đã thống nhất đất nước và lên ngôi, lập ra nhà Đinh, khai sinh ra nhà nước Đại Cồ Việt, chọn Hoa Lư làm kinh đô. Ông đã tận dụng những điều kiện thiên nhiên ưu việt của khu vực này để tạo nên một trung tâm quyền lực vững mạnh. Những dãy núi đá, hang động và dòng sông không chỉ đóng vai trò phòng thủ quân sự mà còn mang ý nghĩa tâm linh, tạo ra một không gian thiêng liêng
                         </div>
                         <div className="Section1__content__inner__image" >
-                            <img src="/QTDTTA/Section1-2.jpg" />
+                            <img src="/image/QTDTTA/Section1-2.jpg" />
                         </div>
                         <div className="Section1__content__inner__text">
                         Quần thể danh thắng Tràng An chính là một phần của hệ sinh thái thiên nhiên đặc sắc gắn liền với Cố đô Hoa Lư. Tràng An không chỉ là biểu tượng của cảnh quan thiên nhiên kỳ vĩ mà còn là minh chứng cho mối quan hệ chặt chẽ giữa con người và thiên nhiên trong lịch sử xây dựng và phát triển của đất nước. Việc xây dựng cố đô Hoa Lư không chỉ phản ánh sự sáng tạo và sức mạnh của các triều đại, mà còn là nền tảng hình thành những danh thắng nổi tiếng mà hôm nay chúng ta gọi là Quần thể danh thắng Tràng An
                         </div>
                         <div className="Section1__content__inner__image" >
-                            <img src="/QTDTTA/Section1-3.jpg" />
+                            <img src="/image/QTDTTA/Section1-3.jpg" />
                         </div> */}
                         {/* <div className="Section1__content__inner__text">
                             Theo sách Đại Nam thực lục chép, sau khi giành thắng lợi trước nhà Tây Sơn (1802), vua Gia Long đã nghĩ ngay đến việc xây dựng kinh đô cho vương triều Nguyễn. Nhận thấy thế đất vùng Phú Xuân có nhiều thuận lợi vì vậy năm 1803, vua sai giám thành Nguyễn Văn Yến ra bốn mặt ngoài thành cũ

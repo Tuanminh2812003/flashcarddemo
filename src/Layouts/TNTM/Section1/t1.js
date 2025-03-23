@@ -46,7 +46,7 @@ function Section5(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                            style={{backgroundImage: "url('/TNTM/Section1-4.jpg')",}}
+                            style={{backgroundImage: "url('/image/TNTM/Section1-4.jpg')",}}
                             >
 
                             </div>
@@ -71,7 +71,7 @@ function Section5(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                            style={{backgroundImage: "url('/TNTM/Section5.1new.png')",}}
+                            style={{backgroundImage: "url('/image/TNTM/Section5.1new.png')",}}
                             >
 
                             </div>

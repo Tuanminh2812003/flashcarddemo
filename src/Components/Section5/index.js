@@ -21,7 +21,7 @@ function Section5(){
                             <div className="Section5__inner__row1__image"
                                 
                             >
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/QTDTCDH/Section5-1.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/QTDTCDH/Section5-1.jpg')",}}>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Lăng vua Tự Đức (Khiêm Lăng)”</b>
@@ -41,7 +41,7 @@ function Section5(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/QTDTCDH/Section5-2.jpeg')",}}
+                                style={{backgroundImage: "url('/image/QTDTCDH/Section5-2.jpeg')",}}
                             >
                                 
                             </div>
@@ -61,7 +61,7 @@ function Section5(){
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image">
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/QTDTCDH/Section5.1new.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/QTDTCDH/Section5.1new.jpg')",}}>
                                 </div>
                                 {/* <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Lăng vua Tự Đức (Khiêm Lăng)”</b>
@@ -84,7 +84,7 @@ function Section5(){
                             <div className="Section5__inner__row1__image"
                                 
                             >
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/QTDTCDH/Section5.2new.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/QTDTCDH/Section5.2new.jpg')",}}>
                                 </div>
                                 {/* <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Lăng vua Tự Đức (Khiêm Lăng)”</b>
@@ -107,7 +107,7 @@ function Section5(){
                             <div className="Section5__inner__row1__image"
                                 
                             >
-                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/QTDTCDH/Section5.3new.jpg')",}}>
+                                <div className="Section5__inner__row1__image__inner" style={{backgroundImage: "url('/image/QTDTCDH/Section5.3new.jpg')",}}>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Cửu Đỉnh tại Thế Tổ Miếu - Đại Nội Huế”</b>

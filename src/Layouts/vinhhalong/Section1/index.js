@@ -19,8 +19,8 @@ function Section1(){
                     <div className="Section1__menu__inner">
                         <label className="Section1__menu__inner__tab lable1" for="inner1">Lịch sử hình thành</label>
                         <label className="Section1__menu__inner__tab lable2" for="inner2">Giới thiệu khái quát </label>
-                        {/* <label className="Section1__menu__inner__tab lable3" for="inner3">Di tích Chính Bắc Môn</label>
-                        <label className="Section1__menu__inner__tab lable4" for="inner4">Di tích Nhà cách mạng D67</label> */}
+                        <label className="Section1__menu__inner__tab lable3" for="inner3">Vị trí địa lý</label>
+                        {/* <label className="Section1__menu__inner__tab lable4" for="inner4">Di tích Nhà cách mạng D67</label> */}
                     </div>
                 </div>
             </div>
@@ -34,24 +34,51 @@ function Section1(){
                                     Lịch sử hình thành
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Vịnh Hạ Long có lịch sử hình thành địa chất lâu đời và phức tạp, kéo dài hàng triệu năm. Khoảng 500 triệu năm trước, vào đầu kỉ Cambri, vịnh Hạ Long vẫn là một vùng lục địa nổi cao và trải qua quá trình vận động địa chất, trong đó có sự biến đổi của mực nước biển, khiến đá vôi bị hoà tan, tạo nên những hang động và đảo đá vôi. 
+                                    Vịnh Hạ Long là một trong cái nôi của người Việt cổ, với ba nền văn hóa tiền sử kế tiếp nhau, cách ngày nay từ 18.000 đến 3.500 năm đó là: Văn hóa Soi Nhụ, văn hóa Cái Bèo và văn hóa Hạ Long. Những kết quả nghiên cứu, thám sát khảo cổ học và văn hóa học cho thấy sự hiện diện của những cư dân tiền sử trên vùng vịnh Hạ Long từ khá sớm, đã tạo lập những hình thái văn hóa cổ đại tiếp nối nhau bao gồm văn hóa Soi Nhụ trong khoảng 18.000-7.000 năm trước Công Nguyên, văn hóa Cái Bèo trong 7.000-5.000 năm trước Công Nguyên và văn hóa Hạ Long cách ngày nay khoảng từ 3.500-5.000 năm.
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Vào kỷ Trias (khoảng 250 triệu năm trước), khu vực vịnh Hạ Long chìm dưới nước biển, trầm tích tích tụ mạnh mẽ, hình thành các lớp đá vôi dày đặc. Trong hàng triệu năm tiếp theo, sự nâng lên của vỏ Trái Đất và quá trình phong hoá (nước ăn mòn đá vôi) tiếp tục diễn ra, tạo nên những dãy núi và hang động.
+                                    Ngay tại khu vực trung tâm di sản thiên nhiên thế giới Vịnh Hạ Long, các nhà khảo cổ cũng đã phát hiện khá nhiều dấu tích còn lại của những cư dân thời tiền sử Hạ Long tại động Mê Cung, hang Tiên Ông, hang Bồ Nâu, động Thiên Long... 
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Đến Kỷ Đệ Tứ (khoảng 2,58 triệu năm trước), mực nước biển bắt đầu dâng cao, nhấn chìm phần lớn khu vực, biến những ngọn núi đá vôi thành những hòn đảo. Cuối cùng, sau hàng triệu năm biến đổi, vịnh Hạ Long có hình dáng như hiện nay với hàng ngàn hòn đảo đá vôi cùng với hang động kỳ vĩ, trở thành một trong những kỳ quan thiên nhiên thế giới được UNESCO công nhận.
+                                    Đặc biệt là, các di chỉ khảo cổ học thuộc thời tiền sử Hạ Long, đã được phát hiện, có mặt hầu hết các nơi trên Vịnh, chứng tỏ một quy mô rộng khắp, thể hiện sự phát triển rực rỡ, liên tục của một nền văn hóa mang đậm sắc thái của cư dân vùng biển đảo, có ý nghĩa quan trọng góp phần vào quá trình hình thành nền văn minh Việt cổ.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/vinhhalong/Ảnh 2.1.jpg" />
+                                    <img src="/image/vinhhalong/2.1.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Quang cảnh hùng vĩ của vịnh Hạ Long”</b>
+                                    Ảnh: <b>“Vịnh Hạ Long ”</b>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Khách sạn Peach Hotel Hạ Long</b>
+                                    Nguồn: <b>honngocviendong.net</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/vinhhalong/2.2.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Một thoáng Vịnh Hạ Long năm 1953 ”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>chuyenxua.net</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/vinhhalong/2.3.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Một thoáng Vịnh Hạ Long năm 1953 ”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>chuyenxua.net</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/vinhhalong/2.4.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Một thoáng Vịnh Hạ Long năm 1953 ”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>chuyenxua.net</b>
                                 </div>
                             </div>
                         </div>
@@ -123,7 +150,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                             <div className="Section1__content__inner__image" >
-                                    <img src="/vinhhalong/7.jpg" />
+                                    <img src="/image/vinhhalong/7.jpg" />
                                 </div>
                                 {/* <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Quang cảnh hùng vĩ của vịnh Hạ Long”</b>
@@ -135,7 +162,7 @@ function Section1(){
                                     Nguồn: <b>Báo Thái Bình</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/vinhhalong/8.jpg" />
+                                    <img src="/image/vinhhalong/8.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Quang cảnh Vịnh Hạ Long”</b>
@@ -147,7 +174,7 @@ function Section1(){
                                     Nguồn: <b>Khách sạn Peach Hotel Hạ Long</b>
                                 </div> */}
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/vinhhalong/Ảnh 2.2.jpg" />
+                                    <img src="/image/vinhhalong/Ảnh 2.2.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Vịnh Hạ Long như chốn thần tiên khi hoàng hôn xuống”</b>
@@ -208,24 +235,21 @@ function Section1(){
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
                                 <div className="Section1__content__inner__title">
-                                    Di tích Chính Bắc Môn
+                                    Vị trí địa lý
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Chính Bắc Môn còn gọi là Bắc Môn hay Cửa Bắc, là cổng thành duy nhất còn lại của Thành Hà Nội thời Nguyễn, xây dựng năm 1805. Bắc Môn được thiết kế theo lối vọng lâu – phần lầu ở trên còn phần thành ở dưới.
-                                </div>
-                                <div className="Section1__content__inner__text">
-                                    Đây không chỉ là một di tích còn sót lại của khu Thành cổ Hà Nội mà còn là minh chứng cho những cuộc chiến đấu anh dũng của quân dân Hà Nội trong những ngày đầu chống lại sự xâm lăng của thực dân Pháp chiếm Thành Hà Nội.
+                                    Vịnh Hạ Long nằm ở phía Đông Bắc của Việt Nam, thuộc địa phận tỉnh Quảng Ninh, cách thủ đô Hà Nội 165 km. Vịnh Hạ Long có diện tích 1.553 km² bao gồm 1.969 hòn đảo (trong đó 980 hòn đảo đã có tên). Vịnh Hạ Long là dạng địa hình đảo xen lẫn các trũng biển, các vùng bãi triều có sú vẹt mọc và các đảo đá vôi vách dựng đứng rất tương phản nhau.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.2.png" />
+                                    <img src="/image/vinhhalong/1.1.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Cửa Bắc là cổng thành duy nhất còn lại của Thành Hà Nội thời Nguyễn”</b>
+                                    Ảnh: <b>“Toàn cảnh Vịnh Hạ Long trên cao ”</b>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Báo VnExpress (Ngọc Thành)</b>
+                                    Nguồn: <b>Việt Nam thịnh vượng</b>
                                 </div>
                             </div>
                         </div>

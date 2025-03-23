@@ -47,7 +47,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTTA/Section1-1.jpg" />
+                                    <img src="/image/QTDTTA/Section1-1.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>"Quần thể danh thắng Tràng An (Ninh Bình)"</b>
@@ -56,7 +56,7 @@ function Section1(){
                                     Nguồn: <b>Dân Việt</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTTA/Section1-2.jpg" />
+                                    <img src="/image/QTDTTA/Section1-2.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>"Tượng vua Lê Đại Hành"</b>
@@ -65,7 +65,7 @@ function Section1(){
                                     Nguồn: <b>"Trung tâm bảo tồn di tích Lịch sử - Văn hoá Cố đô Hoa Lư Ninh Bình"</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTTA/Section1-3.jpg" />
+                                    <img src="/image/QTDTTA/Section1-3.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>"Đền vua Đinh Tiên Hoàng (Di tích cố đô Hoa Lư)"</b>
@@ -141,9 +141,9 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/QTDTTA/Section1-3.jpg" />
+                                    <img src="/image/QTDTTA/Section1-3.jpg" />
                                 </div>
-                                <Audio url="/QTDTTA/Section1-1.jpg" title="Quần thể danh thắng Tràng An" disc="UNESCO" audio="/QTDTTA/quan_the_danh_thang_trang_an_khong_gian_lich_su.mp3"/>
+                                <Audio url="/image/QTDTTA/Section1-1.jpg" title="Quần thể danh thắng Tràng An" disc="UNESCO" audio="/image/QTDTTA/quan_the_danh_thang_trang_an_khong_gian_lich_su.mp3"/>
                             </div>
                         </div>
                         {/* <div className="Section1__content__inner__icon">

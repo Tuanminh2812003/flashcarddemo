@@ -20,7 +20,7 @@ function LayoutDefault(){
                     <Section4/>
                 </div>
                 <div className="container infographic">
-                    <img src="/banducnoi/5 infomation destop.png" style={{width: "100%", height: "auto"}}/>
+                    <img src="/image/banducnoi/5 infomation destop.png" style={{width: "100%", height: "auto"}}/>
                 </div>
                 <Section2/>
                 <Section7/>

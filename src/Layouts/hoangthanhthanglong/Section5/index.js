@@ -22,7 +22,7 @@ function Section5(){
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/hoangthanhthanglong/2.1.jpg')",}}
+                                    style={{backgroundImage: "url('/image/hoangthanhthanglong/2.1.jpg')",}}
                                 >
 
                                 </div>
@@ -50,7 +50,7 @@ function Section5(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/hoangthanhthanglong/2.2.jpg')",}}
+                                style={{backgroundImage: "url('/image/hoangthanhthanglong/2.2.jpg')",}}
                             >
                                 
                             </div>
@@ -76,7 +76,7 @@ function Section5(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/hoangthanhthanglong/2.3.jpg')",}}
+                                style={{backgroundImage: "url('/image/hoangthanhthanglong/2.3.jpg')",}}
                             >
                                 
                             </div>

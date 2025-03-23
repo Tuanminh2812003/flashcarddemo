@@ -22,7 +22,7 @@ function Section5(){
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/dancaquanho/5.1.jpg')",
+                                    style={{backgroundImage: "url('/image/dancaquanho/5.1.jpg')",
                                         backgroundSize: "contain",
                                         backgroundRepeat: "no-repeat",
                                         backgroundColor: "white"
@@ -51,7 +51,7 @@ function Section5(){
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/dancaquanho/5.2.png')",}}
+                                    style={{backgroundImage: "url('/image/dancaquanho/5.2.png')",}}
                                 >
 
                                 </div>

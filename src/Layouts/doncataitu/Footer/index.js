@@ -17,20 +17,24 @@ function Footer(){
                             <img src="/Logo.png" alt="logo"/>
                         </div>
                         <div className="Footer__inner__row">
-                            <div className="Footer__inner__title">
-                                Chuyên gia cố vấn
-                            </div>
-                            <div className="Footer__inner__disc">
-                                GS.TS.NGND Đỗ Thanh Bình
+                        <div className="Footer__inner__title">
+                                Hướng dẫn chuyên môn
                             </div>
                             <div className="Footer__inner__disc">
                                 PGS.TS Nguyễn Mạnh Hường
                             </div>
-                            <div className="Footer__inner__disc">
-                                TS. Nguyễn Văn Ninh
+                        
+                            <div className="Footer__inner__title">
+                                Tham vấn chuyên môn
                             </div>
                             <div className="Footer__inner__disc">
-                                TS. Vũ Đức Liêm
+                            GS.TS. NGND Đỗ Thanh Bình
+                            </div>
+                            <div className="Footer__inner__disc">
+                            TS. Nguyễn Văn Ninh
+                            </div>
+                            <div className="Footer__inner__disc">
+                            PGS.TS Phan Ngọc Huyền
                             </div>
                         </div>
                         <div className="Footer__inner__row r2">

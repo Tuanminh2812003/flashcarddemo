@@ -17,7 +17,7 @@ function LayoutDefault(){
             <div className="greenMode">
                 <SectionMain/>
                 <div className="container infographic">
-                    <img src="/vuonquocgia/2.1. web.png" style={{width: "100%", height: "auto"}}/>
+                    <img src="/image/vuonquocgia/2.1. web.png" style={{width: "100%", height: "auto"}}/>
                 </div>
                 <Section1/>
                 <Section5/>

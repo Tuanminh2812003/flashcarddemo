@@ -202,7 +202,7 @@ function Section1(){
                 </div>
             </div>
             <div className="container infographic" style={{backgroundColor:"#4C3932"}}>
-                    <img src="/hoanghoasutrinhdo/3.1 infographic (desktop).png" style={{width: "100%", height: "auto"}}/>
+                    <img src="/image/hoanghoasutrinhdo/3.1 infographic (desktop).png" style={{width: "100%", height: "auto"}}/>
                 </div>
             </div>
         </>

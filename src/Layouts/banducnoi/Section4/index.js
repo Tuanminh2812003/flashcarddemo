@@ -4,14 +4,14 @@ import { MdNavigateNext } from "react-icons/md";
 function Section4() {
     const [currentSlide, setCurrentSlide] = useState(0);
     const slides = [
-        "/banducnoi/4.1.jpg",
-        "/banducnoi/4.2.jpg",
-        "/banducnoi/4.3.jpg",
-        "/banducnoi/4.4.jpg",
-        "/banducnoi/4.5.jpg",
-        "/banducnoi/4.6.jpg",
-        "/banducnoi/4.7.jpg",
-        "/banducnoi/4.8.jpg",
+        "/image/banducnoi/4.1.jpg",
+        "/image/banducnoi/4.2.jpg",
+        "/image/banducnoi/4.3.jpg",
+        "/image/banducnoi/4.4.jpg",
+        "/image/banducnoi/4.5.jpg",
+        "/image/banducnoi/4.6.jpg",
+        "/image/banducnoi/4.7.jpg",
+        "/image/banducnoi/4.8.jpg",
     ];
 
     const handleNextClick = () => {

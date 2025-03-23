@@ -39,7 +39,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/dothicohoian/2.1.png" />
+                                    <img src="/image/dothicohoian/2.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Đô thị cổ Hội An thuộc vùng đồng bằng ven biển tỉnh Quảng Nam”</b>
@@ -108,7 +108,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/dothicohoian/2.2.png" />
+                                    <img src="/image/dothicohoian/2.2.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Sự sầm uất của phố cổ Hội An”</b>

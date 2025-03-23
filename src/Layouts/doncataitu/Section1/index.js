@@ -137,7 +137,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                             <div className="Section1__content__inner__image" >
-                                    <img src="/doncataitu/2.jpg" />
+                                    <img src="/image/doncataitu/2.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Tiết mục Đờn ca tài tử được biểu diễn tại Liên hoan Đờn ca tài tử “Hải Phòng - Miền di sản 2024””</b>
@@ -218,7 +218,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/doncataitu/3.jpeg" />
+                                    <img src="/image/doncataitu/3.jpeg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Đờn ca tài tử ngày xưa”</b>

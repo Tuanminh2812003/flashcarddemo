@@ -68,7 +68,7 @@ function Section1p5() {
                 <div
                     className="Section2__inner__game__image"
                     style={{
-                    // backgroundImage: "url('/QTDTTA/SectionMain1.jpg')",
+                    // backgroundImage: "url('/image/QTDTTA/SectionMain1.jpg')",
                     // backgroundSize: "cover",
                     // backgroundPosition: "center",
                     filter: questions.some((q) => q) ? "blur(10px)" : "none",

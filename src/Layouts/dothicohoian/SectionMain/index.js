@@ -17,7 +17,7 @@ function SectionMain(){
     return(
         <>
             <div className="SectionMain" style={{
-                backgroundImage: "url('/dothicohoian/1.png')",
+                backgroundImage: "url('/image/dothicohoian/1.png')",
                 backgroundSize: "cover",
                 backgroundPosition: "center 0",
             }}>

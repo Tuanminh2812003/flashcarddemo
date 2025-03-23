@@ -37,7 +37,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/mocbantrieunguyen/Section1p2.1.png" />
+                                    <img src="/image/mocbantrieunguyen/Section1p2.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
                                     Ảnh: <b>“Trung tâm Lưu trữ Quốc gia IV đang bảo tồn, lưu trữ 34.555 mộc bản triều Nguyễn khắc chữ Hán.”</b>
@@ -46,7 +46,7 @@ function Section1(){
                                     Nguồn: <b>Văn Long</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/mocbantrieunguyen/Section1p2.2.jpg" />
+                                    <img src="/image/mocbantrieunguyen/Section1p2.2.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
                                     Ảnh: <b>“Mộc bản triều Nguyễn.”</b>

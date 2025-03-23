@@ -35,7 +35,7 @@ function Section5(){
                                 
                             >
                                 <div className="Section5__inner__row1__image__inner"
-                                style={{backgroundImage: "url('/TNTM/Section5-1.jpg",
+                                style={{backgroundImage: "url('/image/TNTM/Section5-1.jpg",
                                     backgroundSize: "contain",
                                     backgroundRepeat: "no-repeat",
                                     backgroundColor: "white"

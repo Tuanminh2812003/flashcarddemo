@@ -50,7 +50,7 @@ function App() {
         <Route path='/hatxoan' element={<HX/>}/>
         <Route path='/tinnguongthocunghungvuong' element={<TNTCHV/>}/>
         <Route path='/chaubantrieunguyen' element={<CBTN/>}/>
-        <Route path='/doncataitu' element={<DCTT/>}/>
+        <Route path='/doncataitunambo' element={<DCTT/>}/>
       </Routes>
     </>
   );

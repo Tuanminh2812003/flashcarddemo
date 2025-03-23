@@ -17,10 +17,10 @@ function Section1(){
             <div className="Section1__menu">
                 <div className="container">
                     <div className="Section1__menu__inner">
-                        {/* <label className="Section1__menu__inner__tab lable1" for="inner1">Lịch sử hình thành</label>
-                        <label className="Section1__menu__inner__tab lable2" for="inner2">Giới thiệu khái quát </label> */}
-                        {/* <label className="Section1__menu__inner__tab lable3" for="inner3">Di tích Chính Bắc Môn</label>
-                        <label className="Section1__menu__inner__tab lable4" for="inner4">Di tích Nhà cách mạng D67</label> */}
+                        <label className="Section1__menu__inner__tab lable1" for="inner1">Quá trình tiến hóa tự nhiên </label>
+                        <label className="Section1__menu__inner__tab lable2" for="inner2">Sinh vật nhân thực </label>
+                        <label className="Section1__menu__inner__tab lable3" for="inner3">Lịch sử và khảo cổ</label>
+                        {/* <label className="Section1__menu__inner__tab lable4" for="inner4">Di tích Nhà cách mạng D67</label> */}
                     </div>
                 </div>
             </div>
@@ -30,16 +30,34 @@ function Section1(){
                     <div className="Section1__content__inner inner1">
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
-                                {/* <div className="Section1__content__inner__title">
-                                    Lịch sử hình thành
-                                </div> */}
+                                <div className="Section1__content__inner__title">
+                                    Quá trình tiến hóa tự nhiên 
+                                </div>
                                 <div className="Section1__content__inner__text">
-                                    Vườn quốc gia Phong Nha -  Kẻ Bàng nằm trong vùng sinh thái bắc Trường Sơn, được xem là một trong 200 vùng sinh thái quan trọng của thế giới. Đặc trưng của Vườn quốc gia là những kiến tạo đá vôi dạng karst hàng triệu năm tuổi với hơn 300 hang động và hệ thống các sông ngầm. Hàng trăm loài động, thực vật quý hiếm, trong đó có nhiều loài có tên trong sách đỏ Việt Nam và thế giới. Hội nghiên cứu hang động Hoàng gia Anh đã đánh giá Động Phong Nha có 7 cái nhất: hang nước dài nhất; cửa hang cao và rộng nhất; hồ nước ngầm đẹp nhất; bờ cát và bãi đá ngầm đẹp nhất; thạch nhũ tráng lệ và kỳ ảo nhất; hang khô rộng và đẹp nhất; sông ngầm dài nhất xứng đáng được mệnh danh là “Nam thiên đệ nhất kỳ quan Động”.
+                                    Dãy núi đá vôi Kẻ Bàng là hoang mạc đá vôi lớn nhất thế giới. Đó là kết quả tiến hóa tự nhiên cách đây gần 400 triệu năm. Quá trình tạo sơn phức tạp đã tạo cho Phong Nha - Kẻ Bàng địa thế hiểm trở, ẩn chứa một quần thể hang động kỳ vĩ, những tượng thạch nhũ đẹp nhất và những dòng sông tối ngầm dài nhất thế giới. Năm 1920, khu vực này được biết đến với những hang động nổi tiếng và được người Pháp tổ chức khai thác du lịch từ năm 1937. Gần đây, Đoàn thám hiểm Hang động Hoàng gia Anh phối hợp với Trường Đại học Khoa học Tự nhiên – Đại học Quốc gia Hà Nội, đã tìm kiếm và khám phá thêm nhiều hang động mới.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Hệ thống hang động Phong Nha - Kẻ Bàng thuộc loại cổ nhất Đông Nam Á, được hình thành do các đứt gãy kiến tạo trong kỷ Đệ Tam (35 triệu năm), đồng thời với pha tách giãn hình thành Biển Đông. Hệ thống hang động ở đây được phát triển trên một khối đá vôi lớn nhất Đông Nam Á, từ kỷ Devon muộn (377 triệu năm) đến kỷ Permi (250 triệu năm). Bao quanh khối đá vôi là các tầng địa hình phi carbonat, là điều kiện thu nước tốt cho khối đá vôi hình thành hang động, đồng thời tăng tính đa dạng sinh học trong khu vực. Có 2 hệ thống hang chính: hang Phong Nha, với tổng chiều dài 5.076m; hang Vòm, với tổng chiều dài 36.063m, hầu hết còn mang tính nguyên sơ.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
-                                <div className="Section1__content__inner__video">
-                                    
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/vuonquocgia/1.1.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Vườn Quốc gia Phong Nha – Kẻ Bàng”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>quangbinh.gov.vn</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/vuonquocgia/1.2.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Vườn Quốc gia Phong Nha – Kẻ Bàng”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>quangbinh.gov.vn</b>
                                 </div>
                             </div>
                         </div>
@@ -94,30 +112,48 @@ function Section1(){
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
                                 <div className="Section1__content__inner__title">
-                                    Giới thiệu khái quát 
+                                    Sinh vật nhân thực 
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Vịnh Hạ Long là di sản thiên nhiên thế giới được UNESCO công nhận ba lần vào năm 1994, năm 2000 và năm 2023. Vịnh Hạ Long nằm trên vịnh Bắc Bộ, thuộc vùng biển Đông Bắc của Việt Nam. Với diện tích 1.553 km², vịnh Hạ Long bao gồm 1.969 hòn đảo lớn nhỏ, phần lớn là đảo đá vôi, trong đó có 980 hòn đảo đã được đặt tên.
+                                    Đến nay, đã xác định sự có mặt của 2.651 loài thực vật bậc cao có mạch, 735 loài động vật có xương sống, 369 loài côn trùng trong khu vực Phong Nha – Kẻ Bàng. Trong đó, 116 loài thực vật và 129 loài động vật được ghi trong Sách đỏ Việt Nam. Có tới 28 loài động, thực vật có giá trị kinh tế và khoa học cao đang bị đe dọa nguy cấp ở mức toàn cầu, như voọc Hà Tĩnh, chà vá chân nâu, vượn đen má trắng, hổ, sao la, sóc bay đen trắng, chó sói, gà lôi, rùa...
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Vịnh Hạ Long không chỉ nổi tiếng với vẻ đẹp kỳ vĩ của hàng ngàn hòn đảo đá vôi nhô lên từ mặt nước biển xanh biếc, mà còn là nơi tập trung nhiều hang động kỳ ảo và bãi tắm tuyệt đẹp. Vịnh có hệ sinh thái đa dạng, là môi trường sống của nhiều loài động thực vật biển quý hiếm. Đây cũng là nơi sinh sống của nhiều loài sinh vật biển, động vật, và các hệ sinh thái như rừng ngập mặn, rừng nhiệt đới.
+                                    Năm 1996, ở đây có loài cá mới phát hiện ở Việt Nam, đặc biệt năm 2012, các nhà khoa học ghi nhận mẫu Chuột đá Trường Sơn (Laonastes aenigmamus) thuộc giống Laonestes tại khu vực mở rộng thuộc Vườn quốc gia Phong Nha – Kẻ Bàng – đây là một đại diện sống duy nhất của họ thú cổ (Diatomyidae) được xem là đã tuyệt chủng cách đây 11 triệu năm. 
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Vịnh Hạ Long có lịch sử hình thành địa chất phức tạp và lâu đời, trải qua hàng triệu năm biến đổi do tác động của nước, gió và thời gian. Quá trình phong hóa đã tạo nên những hang động kỳ vĩ với những nhũ đá, măng đá tuyệt đẹp, như động Thiên Cung, hang Đầu Gỗ, hang Sửng Sốt...
+                                    Trong số 419 loài thực vật (28 loài lan), có 2 loài mới đặc hữu rất hẹp, là “bách xanh núi đá” vàOligoceras eberhardtii. Có tới 41 loài động vật đặc hữu của dãy Trường Sơn, gồm 30 loài đặc hữu của Việt Nam, trong đó có 23 loài đặc hữu hẹp, mới chỉ tìm thấy ở đây.
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Vịnh Hạ Long không chỉ là một điểm đến du lịch nổi tiếng trong nước và quốc tế, mà còn là nơi lưu giữ nhiều giá trị văn hóa, lịch sử và truyền thống của người dân Việt Nam. Đây là một điểm đến lý tưởng cho những ai yêu thích khám phá vẻ đẹp thiên nhiên và trải nghiệm những hoạt động du lịch đa dạng như du thuyền, kayak, leo núi, tắm biển...
+                                    Gần đây, các nhà khoa học đã phát hiện thêm 1 loài thực vật, 1 loài chim, 6 loài bò sát, 1 loài lưỡng thê, 12 loài và phân loài cá và 2 loài bướm.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/vinhhalong/Ảnh 2.2.jpg" />
+                                    <img src="/image/vuonquocgia/1.3.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Vịnh Hạ Long như chốn thần tiên khi hoàng hôn xuống”</b>
+                                    Ảnh: <b>“Các động vật trong Vườn Quốc gia Phong Nha – Kẻ Bàng”</b>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Báo Lao Động (Vietyacht)</b>
+                                    Nguồn: <b>phongnhatravel</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/vuonquocgia/1.4.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Loài voọc Hà Tĩnh cực kỳ quý hiếm”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>phongnhatravel</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/vuonquocgia/1.5.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Tôm không mắt ở hang động Phong Nha”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>phongnhatravel</b>
                                 </div>
                             </div>
                         </div>
@@ -172,24 +208,24 @@ function Section1(){
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
                                 <div className="Section1__content__inner__title">
-                                    Di tích Chính Bắc Môn
+                                    Lịch sử và khảo cổ
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Chính Bắc Môn còn gọi là Bắc Môn hay Cửa Bắc, là cổng thành duy nhất còn lại của Thành Hà Nội thời Nguyễn, xây dựng năm 1805. Bắc Môn được thiết kế theo lối vọng lâu – phần lầu ở trên còn phần thành ở dưới.
+                                    Vào đầu thế kỷ XX, các nhà thám hiểm và học giả Anh, Pháp phát hiện một số di tích Chăm, Việt cổ, như bàn thờ của người Chăm, chữ của người Chăm khắc trên vách đá, gạch, tượng đá, tượng Phật, mảnh gốm và nhiều bài vị... Có thể dấu tích nhiều mảnh thân và miệng các bình gốm có tráng men của Chăm với các mảnh gốm thô sơ có lõi đen ở hang Bi Ký trong động là một thánh đường của Chăm từ thế kỷ IX - XI. Ngoài ra, khu vực này còn là nơi đang bảo tồn những bản sắc văn hóa của hai tộc người có dân số ít nhất ở Việt Nam và trên thế giới, đó là người Arem và người Rục.
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Đây không chỉ là một di tích còn sót lại của khu Thành cổ Hà Nội mà còn là minh chứng cho những cuộc chiến đấu anh dũng của quân dân Hà Nội trong những ngày đầu chống lại sự xâm lăng của thực dân Pháp chiếm Thành Hà Nội.
+                                    Khu vực rừng Phong Nha - Kẻ Bàng cũng là nơi hiện còn lưu lại nhiều dấu tích lịch sử oai hùng từ thời kháng chiến chống Mỹ, như đường mòn Hồ Chí Minh (Đông Trường Sơn), các di tích hang Tám cô, hang Chín tầng, bến phà Nguyễn Văn Trỗi, các kho hàng hoá trong hệ thống hang động ở Tuyên Hoá, Minh Hoá... Động Phong Nha có một thời được bộ đội Đoàn 559 dùng làm nơi cất giấu hàng hoá, những chiếc phà sắt để vận chuyển xe, hàng ra tiền tuyến.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.2.png" />
+                                    <img src="/image/vuonquocgia/1.6.jpg" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Cửa Bắc là cổng thành duy nhất còn lại của Thành Hà Nội thời Nguyễn”</b>
+                                    Ảnh: <b>“Cung đường Hồ Chí Minh huyền thoại xuyên qua vườn quốc gia Phong Nha Kẻ Bàng”</b>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Báo VnExpress (Ngọc Thành)</b>
+                                    Nguồn: <b>phongnhatravel</b>
                                 </div>
                             </div>
                         </div>

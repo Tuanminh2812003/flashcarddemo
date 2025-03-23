@@ -41,7 +41,7 @@ function Section1(){
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/catru/2.1.png" />
+                                    <img src="/image/catru/2.1.png" />
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Du khách nghe CLB Ca trù Thăng Long giới thiệu về nghệ thuật Ca trù trước khi xem biểu diễn”</b>
@@ -49,7 +49,7 @@ function Section1(){
                                 <div className="Section1__content__inner__video__disc">
                                     Nguồn: <b>Báo Ảnh Việt Nam (Tất Sơn)</b>
                                 </div>
-                                <Audio url="/catru/2.1.png" title=" Biểu tượng văn hóa độc đáo của người Việt" disc="Báo Ảnh Việt Nam (Tất Sơn)" audio="/catru/2.2.mp3"/>
+                                <Audio url="/image/catru/2.1.png" title=" Biểu tượng văn hóa độc đáo của người Việt" disc="Báo Ảnh Việt Nam (Tất Sơn)" audio="/image/catru/2.2.mp3"/>
                             </div>
                         </div>
                         {/* <div className="Section1__content__inner__text">

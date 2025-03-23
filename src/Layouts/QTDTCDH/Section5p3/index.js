@@ -35,7 +35,7 @@ function Section5p3(){
                             </ul>
                         </div> */}
                         {/* <div className="Section5__inner__image" style={{
-                            backgroundImage: "url('/QTDTCDH/Section5-1.jpg')",
+                            backgroundImage: "url('/image/QTDTCDH/Section5-1.jpg')",
                             backgroundSize: "cover",
                             backgroundPosition: "center",
                         }}></div> */}
@@ -69,7 +69,7 @@ function Section5p3(){
                             </ul>
                         </div> */}
                         {/* <div className="Section5__inner__image" style={{
-                            backgroundImage: "url('/QTDTCDH/Section5-2.jpeg')",
+                            backgroundImage: "url('/image/QTDTCDH/Section5-2.jpeg')",
                             backgroundSize: "cover",
                             backgroundPosition: "center",
                         }}></div> */}
@@ -81,7 +81,7 @@ function Section5p3(){
                             </ul>
                         </div>
                         <div className="Section5__inner__image2" style={{
-                            backgroundImage: "url('/QTDTCDH/Section5-3.jpg')",
+                            backgroundImage: "url('/image/QTDTCDH/Section5-3.jpg')",
                             backgroundSize: "cover",
                             backgroundPosition: "center",
                         }}></div>
@@ -93,7 +93,7 @@ function Section5p3(){
                             </ul>
                         </div>
                         <div className="Section5__inner__image2" style={{
-                            backgroundImage: "url('/QTDTCDH/Section5-4.jpg')",
+                            backgroundImage: "url('/image/QTDTCDH/Section5-4.jpg')",
                             backgroundSize: "cover",
                             backgroundPosition: "center",
                         }}></div>
@@ -105,7 +105,7 @@ function Section5p3(){
                             </ul>
                         </div>
                         <div className="Section5__inner__image" style={{
-                            backgroundImage: "url('/QTDTCDH/Section5-5.jpg')",
+                            backgroundImage: "url('/image/QTDTCDH/Section5-5.jpg')",
                             backgroundSize: "cover",
                             backgroundPosition: "center",
                         }}></div> */}

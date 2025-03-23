@@ -20,7 +20,7 @@ function BTSVM(){
                 <Section1/>
                 <Section1p2/>
                 <div className="container infographic" style={{backgroundColor:"#4C3932"}}>
-                    <img src="/BTSVM/biatiensi.png" style={{width: "100%", height: "auto"}}/>
+                    <img src="/image/BTSVM/biatiensi.png" style={{width: "100%", height: "auto"}}/>
                 </div>
                 <Section7/>
                 <Footer/>

@@ -4,9 +4,9 @@ import { MdNavigateNext } from "react-icons/md";
 function Section4() {
     const [currentSlide, setCurrentSlide] = useState(0);
     const slides = [
-        "/dothicohoian/4.1.png",
-        "/dothicohoian/4.2.png",
-        "/dothicohoian/4.3.png",
+        "/image/dothicohoian/4.1.png",
+        "/image/dothicohoian/4.2.png",
+        "/image/dothicohoian/4.3.png",
     ];
 
     const handleNextClick = () => {
