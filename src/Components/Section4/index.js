@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Section4.scss";
-import { MdNavigateNext } from "react-icons/md";
+import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
 
 function Section4() {
     const [currentSlide, setCurrentSlide] = useState(0);
@@ -17,6 +17,16 @@ function Section4() {
             console.log("Next Slide Index:", nextSlide, "Next Slide Image:", slides[nextSlide]);
             return nextSlide;
         });
+    };
+
+    const handlePrevClick = () => {
+        setCurrentSlide((prev) => {
+        const prevSlide = (prev - 1) % slides.length;
+        if(prevSlide < 0) {
+            return slides.length - 1;
+        }
+        return prevSlide;
+    });
     };
 
     const handleDotClick = (index) => {
@@ -69,6 +79,9 @@ function Section4() {
             </div>
             <div className="Section4__next" onClick={handleNextClick}>
                 <MdNavigateNext />
+            </div>
+            <div className="Section4__prev" onClick={handlePrevClick}>
+                <MdNavigateBefore />
             </div>
         </div>
     );

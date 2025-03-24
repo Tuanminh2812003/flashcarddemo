@@ -22,9 +22,6 @@ function LayoutDefault(){
                 </div>
                 <Section2/>
                 <Section5p2/>
-                <div className="container infographic" style={{backgroundColor:"#F3E7DB"}}>
-                    <img src="/image/thanhdiamyson/5.1.jpg" style={{width: "100%", height: "auto"}}/>
-                </div>
                 <Section7/>
                 <Footer/>
             </div>
